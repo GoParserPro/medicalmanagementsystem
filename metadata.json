@@ -1,0 +1,6 @@
+{
+  "name": "Medical Management",
+  "description": "A comprehensive medical management app featuring secure encrypted patient records, doctors and patients flows, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
